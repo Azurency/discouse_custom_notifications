@@ -1,0 +1,3 @@
+plugins:
+  azurency_custom_notifications_enableds:
+    default: false
